@@ -1,4 +1,4 @@
-# My name is Ricardp Zárate
+# My name is Ricardo Zárate
 
 ## I'm a highly motivated business professional with a passion for data analytics and a deep-rooted commitment to helping businesses make informed decisions. 
 
