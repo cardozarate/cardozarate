@@ -10,7 +10,7 @@ extracting meaningful insights from consumer data at a Fortune 100 social techno
 I played a vital role in creating polished PowerPoint deliverables to drive business initiatives forward. My ultimate goal is to continue assisting businesses in 
 leveraging the power of data to tackle complex client problems, drive growth, and make strategic decisions. Feel free to connect with me!
 - 🌇 Based in California 
-- 🖥️ See my portfolio at [my website!]([https://github.com/cardozarate/cardozarate.github.io](https://cardozarate.github.io)
+- 🖥️ See my portfolio at [my website!](https://cardozarate.github.io)
 - ✉️ Contact me at rzarate8@gmail.com
 - ⚽️ I'm a UCL and Premier League fan!
 
